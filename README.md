@@ -66,5 +66,4 @@ Future work could include hyperparameter tuning, model ensembling, and deploymen
 
 ---
 
-## 📂 Repository Structure
 
